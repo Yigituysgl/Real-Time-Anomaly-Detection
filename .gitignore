@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data & generated files
+storage/
+!storage/.gitkeep
+artifacts/
+!artifacts/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
